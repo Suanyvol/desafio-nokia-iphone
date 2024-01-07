@@ -1,0 +1,42 @@
+D:\projeto_dio\bin\Debug\net8.0\projeto_dio.exe
+D:\projeto_dio\bin\Debug\net8.0\projeto_dio.deps.json
+D:\projeto_dio\bin\Debug\net8.0\projeto_dio.runtimeconfig.json
+D:\projeto_dio\bin\Debug\net8.0\projeto_dio.dll
+D:\projeto_dio\bin\Debug\net8.0\projeto_dio.pdb
+D:\projeto_dio\obj\Debug\net8.0\projeto_dio.GeneratedMSBuildEditorConfig.editorconfig
+D:\projeto_dio\obj\Debug\net8.0\projeto_dio.AssemblyInfoInputs.cache
+D:\projeto_dio\obj\Debug\net8.0\projeto_dio.AssemblyInfo.cs
+D:\projeto_dio\obj\Debug\net8.0\projeto_dio.csproj.CoreCompileInputs.cache
+D:\projeto_dio\obj\Debug\net8.0\projeto_dio.dll
+D:\projeto_dio\obj\Debug\net8.0\refint\projeto_dio.dll
+D:\projeto_dio\obj\Debug\net8.0\projeto_dio.pdb
+D:\projeto_dio\obj\Debug\net8.0\projeto_dio.genruntimeconfig.cache
+D:\projeto_dio\obj\Debug\net8.0\ref\projeto_dio.dll
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\bin\Debug\net8.0\projeto_dio.exe
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\bin\Debug\net8.0\projeto_dio.deps.json
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\bin\Debug\net8.0\projeto_dio.runtimeconfig.json
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\bin\Debug\net8.0\projeto_dio.dll
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\bin\Debug\net8.0\projeto_dio.pdb
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\obj\Debug\net8.0\projeto_dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\obj\Debug\net8.0\projeto_dio.AssemblyInfoInputs.cache
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\obj\Debug\net8.0\projeto_dio.AssemblyInfo.cs
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\obj\Debug\net8.0\projeto_dio.csproj.CoreCompileInputs.cache
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\obj\Debug\net8.0\projeto_dio.dll
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\obj\Debug\net8.0\refint\projeto_dio.dll
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\obj\Debug\net8.0\projeto_dio.pdb
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\obj\Debug\net8.0\projeto_dio.genruntimeconfig.cache
+C:\Avanade\Avanade Desafio-Nokia\Desafio---Smartphone---Avanade---Dio-main\obj\Debug\net8.0\ref\projeto_dio.dll
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\bin\Debug\net8.0\projeto_dio.exe
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\bin\Debug\net8.0\projeto_dio.deps.json
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\bin\Debug\net8.0\projeto_dio.runtimeconfig.json
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\bin\Debug\net8.0\projeto_dio.dll
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\bin\Debug\net8.0\projeto_dio.pdb
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\obj\Debug\net8.0\projeto_dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\obj\Debug\net8.0\projeto_dio.AssemblyInfoInputs.cache
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\obj\Debug\net8.0\projeto_dio.AssemblyInfo.cs
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\obj\Debug\net8.0\projeto_dio.csproj.CoreCompileInputs.cache
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\obj\Debug\net8.0\projeto_dio.dll
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\obj\Debug\net8.0\refint\projeto_dio.dll
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\obj\Debug\net8.0\projeto_dio.pdb
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\obj\Debug\net8.0\projeto_dio.genruntimeconfig.cache
+C:\Avanade\Avanade Desafio-Nokia\Desafio-Nokia-Iphone\obj\Debug\net8.0\ref\projeto_dio.dll
